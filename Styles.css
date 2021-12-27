@@ -1,26 +1,6 @@
-body 
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap');
+
+body
 {
-    color: red;
-}
-
-h1
-{
-    color: blue;
-}
-
-h2
-{
-    color: green;
-}
-
-#lib-header
-{
-
-    color: grey;
-}
-
-.para
-
-{
-    color: pink;
+    font-family: 'Exo 2', sans-serif;
 }
